@@ -41,7 +41,7 @@ Content-Type: application/json
 }
 
 ### search band by id or name
-GET http://localhost:3003/bands?name=NCS
+GET http://localhost:3003/bands?name=Caneta Azul
 Authorization: {{token}}
 
 ### Register show

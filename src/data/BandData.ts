@@ -23,7 +23,7 @@ export default class BandData extends BaseDatabase {
       } else {
         result = await BandData.connection("lama_bands")
           .select("*")
-          .where("name", "=", name);
+          .where("name", "LIKE", `%${name}%`);
       }
       if (
         result.length === 0
