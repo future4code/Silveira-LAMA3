@@ -7,20 +7,20 @@
 <a href="#desenvolvedores">Desenvolvedores</a>
 </p>
 
-<h1 id="sobre">📕 Projeto Labenu Music Award</h1>
+<h1 id="sobre">📕 Projeto Music Awards</h1>
 
-<p>o LAMA, *Labenu Musical Awards*, um festival  com várias bandas famosas para a formatura da sua turma e, no final, vocês podem eleger a banda que mais gostaram! Entretanto, na opinião dele, vocês só serão merecedores se entregarem um sistema impecável que permita o gerenciamento completo desses shows.</p>
+<p>API que simula um festival de música. É possível cadastrar usuários, bandas, e shows no final de semana.</p>
 
 <h2 id="orientacoes">🚨 Orientações para acesso</h2>
 
 - Realizar o login se já possui um cadastro;
-- Realizar o cadastro com nome, email e senha.
+- Realizar o cadastro com nome, email e senha se não possuir cadastro.
 - Realiza o cadastro de bandas e shows.
 - Realiza a visualização de detalhes da banda e show.
 
 <h2 id="documentação">📃 Documentação do Postman</h2>
 
-- [Postman]()
+- [Postman](https://documenter.getpostman.com/view/20351643/UzQvtk4N)
 
 <h2 id="features">✔️ Features</h2>
 
@@ -49,10 +49,15 @@
  <h2 id="tecnologia">🛠 Tecnologia</h2>
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [NodeJS](https://nodejs.org/en/docs/)
+- [Jest](https://jestjs.io/pt-BR/docs/api)
+- [MySql](https://dev.mysql.com/doc/)
+
+
 
 <h2 id="desenvolvedores">👨‍💻 Desenvolvedores</h2>
 <table>         
-<td><a href="https://github.com/future4code/silveira-Adeir-Maia"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98994187?v=4" width="100px;" alt="Imagem profile Adeir Moreira desenvolvedor"/><br /><sub><b>Ariane Mello </b></sub></a><br /> 
+<td><a href="https://github.com/future4code/silveira-Adeir-Maia"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98994187?v=4" width="100px;" alt="Imagem profile Adeir Moreira desenvolvedor"/><br /><sub><b>Adeir Moreira</b></sub></a><br /> 
 <td><a href="https://github.com/future4code/silveira-Eric-Silva"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99001809?v=4" width="100px;" alt="Imagem profile Eric Silva desenvolvedor"/><br /><sub><b>Eric Silva </b></sub></a><br />
 <td><a href="https://github.com/future4code/silveira-Mariana-Lima"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98923335?v=4" width="100px;" alt="Imagem profile Mariana Lima desenvolvedora"/><br /><sub><b>Mariana Lima</b></sub></a><br />
   
